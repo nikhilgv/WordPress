@@ -1,2 +1,3 @@
 [config]
-command = rm themes/web.config
+command = rm D:home/site/wwwroot/themes/web.config
+command = touch test.pho
